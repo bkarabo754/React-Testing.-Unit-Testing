@@ -1,3 +1,2 @@
-Thanks to team Cypress for this real world demo app ❤️
+React Unit Testing. Jest & Cypress
 
-<a href="https://github.com/cypress-io/cypress-realworld-app">Original repo</a>
